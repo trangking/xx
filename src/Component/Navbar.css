@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Niramit");
+.ant-layout-header {
+  background-color: #1f6734;
+  height: 49px;
+}
+.bgimg {
+  display: flex;
+  margin-left: -40px;
+  padding: 5px;
+  display: inline-flex;
+}
